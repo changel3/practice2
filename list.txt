@@ -1,7 +1,7 @@
 ngs to buy:
-fruits
-water
-chips
-soft drinks
-napkins
+fruits($12)
+water($6)
+chips($5)
+soft drinks($4)
+napkins($2.50)
 
